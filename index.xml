@@ -11,6 +11,15 @@
     </image>
     <generator>Hugo -- 0.136.5</generator>
     <language>en</language>
+    <lastBuildDate>Thu, 31 Oct 2024 15:11:45 +0900</lastBuildDate>
     <atom:link href="https://mscho2008.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>StyleGAN</title>
+      <link>https://mscho2008.github.io/stylegan/</link>
+      <pubDate>Thu, 31 Oct 2024 15:11:45 +0900</pubDate>
+      <guid>https://mscho2008.github.io/stylegan/</guid>
+      <description>&lt;p&gt;my first writing&lt;/p&gt;
+&lt;h1 id=&#34;gdgd&#34;&gt;gdgd&lt;/h1&gt;</description>
+    </item>
   </channel>
 </rss>
