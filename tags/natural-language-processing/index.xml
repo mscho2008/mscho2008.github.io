@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Mscho&#39;s BLOG</title>
-    <link>https://mscho2008.github.io/</link>
-    <description>Recent content on Mscho&#39;s BLOG</description>
+    <title>Natural Language Processing on Mscho&#39;s BLOG</title>
+    <link>https://mscho2008.github.io/tags/natural-language-processing/</link>
+    <description>Recent content in Natural Language Processing on Mscho&#39;s BLOG</description>
     <image>
       <title>Mscho&#39;s BLOG</title>
       <url>https://mscho2008.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,29 +11,14 @@
     </image>
     <generator>Hugo -- 0.136.5</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Oct 2024 15:11:45 +0900</lastBuildDate>
-    <atom:link href="https://mscho2008.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>StyleGAN</title>
-      <link>https://mscho2008.github.io/posts/stylegan/</link>
-      <pubDate>Thu, 31 Oct 2024 15:11:45 +0900</pubDate>
-      <guid>https://mscho2008.github.io/posts/stylegan/</guid>
-      <description>&lt;p&gt;my first writing&lt;/p&gt;
-&lt;h1 id=&#34;gdgd&#34;&gt;gdgd&lt;/h1&gt;</description>
-    </item>
+    <lastBuildDate>Sun, 07 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mscho2008.github.io/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hallucination in AI Systems</title>
       <link>https://mscho2008.github.io/posts/hihi/</link>
       <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://mscho2008.github.io/posts/hihi/</guid>
       <description>Understanding hallucinations in AI, their causes, and potential ways to mitigate them.</description>
-    </item>
-    <item>
-      <title>My 1st post</title>
-      <link>https://mscho2008.github.io/posts/page/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://mscho2008.github.io/posts/page/</guid>
-      <description>Desc Text.</description>
     </item>
   </channel>
 </rss>
