@@ -2,22 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Machine Learning on Mscho&#39;s BLOG</title>
-    <link>https://mscho2008.github.io/tags/machine-learning/</link>
+    <link>http://localhost:1313/tags/machine-learning/</link>
     <description>Recent content in Machine Learning on Mscho&#39;s BLOG</description>
     <image>
       <title>Mscho&#39;s BLOG</title>
-      <url>https://mscho2008.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://mscho2008.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.136.5</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mscho2008.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>StyleGAN : A Style-Based Generator Architecture for Generative Adversarial Networks</title>
+      <link>http://localhost:1313/posts/stylegan/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/stylegan/</guid>
+      <description>Understanding StyleGAN, their causes, and potential ways to mitigate them.</description>
+    </item>
     <item>
       <title>Hallucination in AI Systems</title>
-      <link>https://mscho2008.github.io/posts/hihi/</link>
+      <link>http://localhost:1313/posts/hihi/</link>
       <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://mscho2008.github.io/posts/hihi/</guid>
+      <guid>http://localhost:1313/posts/hihi/</guid>
       <description>Understanding hallucinations in AI, their causes, and potential ways to mitigate them.</description>
     </item>
   </channel>
