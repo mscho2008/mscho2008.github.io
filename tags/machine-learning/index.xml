@@ -20,12 +20,5 @@
       <guid>https://mscho2008.github.io/posts/stylegan/</guid>
       <description>Understanding StyleGAN, their causes, and potential ways to mitigate them.</description>
     </item>
-    <item>
-      <title>Hallucination in AI Systems</title>
-      <link>https://mscho2008.github.io/posts/hihi/</link>
-      <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://mscho2008.github.io/posts/hihi/</guid>
-      <description>Understanding hallucinations in AI, their causes, and potential ways to mitigate them.</description>
-    </item>
   </channel>
 </rss>
